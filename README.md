@@ -1,4 +1,4 @@
-<img width="2003" height="1183" alt="c4ed4372451e2e45a3bdf7bfeff6dc02" src="https://github.com/user-attachments/assets/8cdb251c-7e16-4f33-8294-cec42bf10f2f" /><img width="2003" height="1183" alt="55d58191842128713b259ffc12157134" src="https://github.com/user-attachments/assets/a4dd7e08-b1ec-4fdf-9e91-974a9caf767c" /># Financial Portfolio Analytics Dashboard
+
 
 ## Project Overview
 
@@ -84,3 +84,7 @@ financial-portfolio-analytics/
 │
 ├── README.md
 └── requirements.txt
+<img width="2075" height="1185" alt="c54416f3bbecd42845ff7e839e9a3dd3" src="https://github.com/user-attachments/assets/0eb52c22-28f1-4600-b93b-b09370149a2f" />
+<img width="2027" height="1197" alt="2a09ec4749aecffc4ae2e41f5cc06888" src="https://github.com/user-attachments/assets/8910665e-2561-48f2-851c-0f4c9098134e" />
+<img width="2059" height="1188" alt="eb60ed30a14743ac075b981c1ebee1b8" src="https://github.com/user-attachments/assets/490bd47e-2d72-4c9a-a496-f7f3b4f6a495" />
+<img width="2003" height="1183" alt="55d58191842128713b259ffc12157134" src="https://github.com/user-attachments/assets/230fbbf7-d747-4b53-8053-3fc0279bdb8c" />
