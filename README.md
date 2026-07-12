@@ -1,4 +1,4 @@
-# Financial Portfolio Analytics Dashboard
+<img width="2003" height="1183" alt="c4ed4372451e2e45a3bdf7bfeff6dc02" src="https://github.com/user-attachments/assets/8cdb251c-7e16-4f33-8294-cec42bf10f2f" /><img width="2003" height="1183" alt="55d58191842128713b259ffc12157134" src="https://github.com/user-attachments/assets/a4dd7e08-b1ec-4fdf-9e91-974a9caf767c" /># Financial Portfolio Analytics Dashboard
 
 ## Project Overview
 
@@ -39,7 +39,6 @@ The core analysis mainly uses:
 - `Portfolio.csv` for current portfolio holdings
 - `Portfolio_prices.csv` for historical stock price and return data
 
----
 
 ## Project Structure
 
